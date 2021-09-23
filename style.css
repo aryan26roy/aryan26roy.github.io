@@ -1,0 +1,14 @@
+.bootstrap-over {
+    color: aquamarine;
+}
+
+#image-overload{
+    display: block;
+    width: 100;
+    height: 40;
+    background-image: url('bg.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed; 
+    background-size: cover;
+    border-radius: 40px;
+}
