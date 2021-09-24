@@ -2,13 +2,29 @@
     color: aquamarine;
 }
 
-#image-overload{
-    display: block;
-    width: 100;
-    height: 40;
-    background-image: url('bg.jpg');
-    background-repeat: no-repeat;
-    background-attachment: fixed; 
-    background-size: cover;
-    border-radius: 40px;
+.haha{
+    border-radius: 20px;
+}
+
+.haha2{
+    border-radius: 20px 20px 0px 0px;
+}
+
+#imageo{
+    height: 195px;
+}
+
+#overrr{
+    height: 195px
+}
+
+#imageo0{
+    visibility: hidden;
+}
+
+#imagewrite{
+    height: 195px;
+}
+#mahphoto{
+    border-radius: 50%;
 }
