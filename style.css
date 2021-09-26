@@ -29,3 +29,8 @@
     height: 200px;
     border-radius: 50%;
 }
+.bottom{
+    background-color: black;
+    color: white;
+    text-align: center;
+}
