@@ -34,3 +34,22 @@
     color: white;
     text-align: center;
 }
+
+.myform{
+    text-align: left;
+    display: inline-block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.mybtn{
+    display: inline-block;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+
+.mainclass{
+    display: block;
+    height: 86vh;
+}
